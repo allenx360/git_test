@@ -1,1 +1,3 @@
 this is a second text.
+
+i fixed the problem for second text issue.
